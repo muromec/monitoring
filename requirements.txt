@@ -1,3 +1,4 @@
 aiohttp
 aiohttp_wsgi
 flask
+aioitertools
